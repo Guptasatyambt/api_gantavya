@@ -1,0 +1,445 @@
+@media screen and (max-width: 400px){
+
+  .foot{
+      position: relative;
+      bottom: -5rem;
+      margin-bottom: 0rem;
+      display: block;
+      height: 30rem;
+      width: 100%;
+      background-color: black;
+      padding-bottom: 4rem;
+    }
+    .con-1{
+      display:block;
+      height: 100%;
+      width: 15%;
+     padding-left: 3rem;
+     float: left;
+     position: absolute;
+      left: 5%;
+      margin-top:3rem;
+    }
+    .con-2{
+      display: block;
+      float: left;
+      width: 13%;
+      margin-left: 0;
+      position: absolute;
+      left: 35%;
+      margin-top:3rem;
+    }
+    .con-3{
+      display: block;
+      position: absolute;
+     float: left;
+     width: 18%;
+     margin-left: 0;
+      left: 65%;
+      
+      margin-top:3rem;
+     
+      
+    }
+    .con-4{
+      display: block;
+     float: left;
+     width: 36%;
+      margin-left: -113px;
+      position: absolute;
+      left: 40%;
+      margin-top:17rem;
+    }
+  
+    .con-5{
+      display: block;
+     
+      float: left;
+      width: auto;
+      margin-left: 0;
+      position: absolute;
+      left: 50%;
+      margin-top:17rem;
+      
+    }
+  
+    }
+    @media screen and (min-width: 400px) and (max-width:576px){
+    
+      .foot{
+          position: relative;
+          bottom: -5rem;
+          margin-bottom: 0rem;
+          display: block;
+          height: 15rem;
+          width: 100%;
+          background-color: black;
+          padding-bottom: 4rem;
+        }
+      .con-1{
+          display:block;
+          height: 100%;
+          width: 15%;
+         padding-left: 3rem;
+         float: left;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-2{
+          display: block;
+          float: left;
+          width: 13%;
+          margin-left: 0;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-3{
+          display: block;
+         float: left;
+         width: 18%;
+         margin-left: 0;
+          left: 2rem;
+          margin-top:3rem;
+        }
+        .con-4{
+          display: block;
+         float: left;
+         width: 36%;
+       margin-left: 0;
+         
+          margin-top:3rem;
+        }
+      
+        .con-5{
+          display: block;
+         
+          float: left;
+          width: auto;
+          margin-left: 0;
+          position: absolute;
+          left: 70%;
+          margin-top:3rem;
+          
+        }
+      
+    }
+    @media screen and (min-width: 576px) and (max-width:768px){
+    
+      .foot{
+          position: relative;
+          bottom: -5rem;
+          margin-bottom: 0rem;
+          display: block;
+          height: 15rem;
+          width: 100%;
+          background-color: black;
+          padding-bottom: 4rem;
+        }
+      .con-1{
+          display:block;
+          height: 100%;
+          width: 15%;
+         padding-left: 3rem;
+         float: left;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-2{
+          display: block;
+          float: left;
+          width: 13%;
+          margin-left: 0;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-3{
+          display: block;
+         float: left;
+         width: 18%;
+         margin-left: 0;
+          left: 2rem;
+          margin-top:3rem;
+        }
+        .con-4{
+          display: block;
+         float: left;
+         width: 36%;
+          margin-left: 0px;
+          
+          margin-top:3rem;
+        }
+      
+        .con-5{
+          display: block;
+         
+          float: left;
+          width: auto;
+          margin-left: 0;
+          position: absolute;
+          left: 70%;
+          margin-top:3rem;
+          
+        }
+  }
+  @media screen and (min-width: 768px) and (max-width:992px){
+    
+      .foot{
+          position: relative;
+          bottom: -5rem;
+          margin-bottom: 0rem;
+          display: block;
+          height: 15rem;
+          width: 100%;
+          background-color: black;
+          padding-bottom: 4rem;
+        }
+      .con-1{
+          display:block;
+          height: 100%;
+          width: 15%;
+         padding-left: 3rem;
+         float: left;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-2{
+          display: block;
+          float: left;
+          width: 13%;
+          margin-left: 0;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-3{
+          display: block;
+         float: left;
+         width: 18%;
+         margin-left: 0;
+          left: 2rem;
+          margin-top:3rem;
+        }
+        .con-4{
+          display: block;
+         float: left;
+         width: 36%;
+          margin-left: 0;
+         
+          margin-top:3rem;
+        }
+      
+        .con-5{
+          display: block;
+         
+          float: left;
+          width: auto;
+          margin-left: 0;
+         position: absolute;
+         left: 70%;
+          margin-top:3rem;
+          
+        }
+  }
+  @media screen and (min-width: 992px) and (max-width:1200px){
+      
+      .foot{
+          position: relative;
+          bottom: -5rem;
+          margin-bottom: 0rem;
+          display: block;
+          height: 15rem;
+          width: 100%;
+          background-color: black;
+          padding-bottom: 4rem;
+        }
+      .con-1{
+          display:block;
+          height: 100%;
+          width: 15%;
+         padding-left: 3rem;
+         float: left;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-2{
+          display: block;
+          float: left;
+          width: 13%;
+          margin-left: 0;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-3{
+          display: block;
+         float: left;
+         width: 18%;
+         margin-left: 0;
+          left: 2rem;
+          margin-top:3rem;
+        }
+        .con-4{
+          display: block;
+         float: left;
+         width: 36%;
+          margin-left: 0px;
+         
+          margin-top:3rem;
+        }
+      
+        .con-5{
+          display: block;
+         
+          float: left;
+          width: auto;
+          margin-left: 0;
+          position: absolute;
+          left: 70%;
+          margin-top:3rem;
+          
+        }
+  }
+    @media screen and (min-width: 1200px) and (max-width:1400px){
+ 
+      .foot{
+          position: relative;
+          bottom: -5rem;
+          margin-bottom: 0rem;
+          display: block;
+          height: 15rem;
+          width: 100%;
+          background-color: black;
+          padding-bottom: 4rem;
+        }
+      .con-1{
+          display:block;
+          height: 100%;
+          width: 15%;
+         padding-left: 3rem;
+         float: left;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-2{
+          display: block;
+          float: left;
+          width: 13%;
+          margin-left: 0;
+          left: 1rem;
+          margin-top:3rem;
+        }
+        .con-3{
+          display: block;
+         float: left;
+         width: 18%;
+         margin-left: 0;
+          left: 2rem;
+          margin-top:3rem;
+        }
+        .con-4{
+          display: block;
+         float: left;
+         width: 36%;
+          margin-left: 0px;
+         
+          margin-top:3rem;
+        }
+      
+        .con-5{
+          display: block;
+         
+          float: left;
+          width: auto;
+          margin-left: 0;
+          position: absolute;
+          left: 70%;
+          margin-top:3rem;
+          
+        }
+  }
+      @media screen and (min-width: 1400px){
+  
+          .foot{
+              position: relative;
+              bottom: -5rem;
+              margin-bottom: 0rem;
+              display: block;
+              height: 15rem;
+              width: 100%;
+              background-color: black;
+              padding-bottom: 4rem;
+            }
+          .con-1{
+              display:block;
+              height: 100%;
+              width: 15%;
+             padding-left: 3rem;
+             float: left;
+              left: 1rem;
+              margin-top:3rem;
+            }
+            .con-2{
+              display: block;
+              float: left;
+              width: 13%;
+              margin-left: 0;
+              left: 1rem;
+              margin-top:3rem;
+            }
+            .con-3{
+              display: block;
+             float: left;
+             width: 18%;
+             margin-left: 0;
+              left: 2rem;
+              margin-top:3rem;
+            }
+            .con-4{
+              display: block;
+             float: left;
+             width: 36%;
+              margin-left: 0;
+             
+              margin-top:3rem;
+            }
+          
+            .con-5{
+              display: block;
+             
+              float: left;
+              width: auto;
+              margin-left: 0;
+              position: absolute;
+              left: 70%;
+              margin-top:3rem;
+              
+            }
+  }
+  
+ 
+  
+ 
+  
+     
+      
+    
+        .head-1{
+          color: white;
+        }
+        .anc{
+          color: #bbb;
+          text-decoration: none;
+          margin-right: .5rem;
+        }
+        .insta{
+          width: 2rem;
+          
+        }
+        .facebook{
+         margin-left: -.8rem;
+          height: 2.2rem;
+        }
+  
+        .copyright{
+          color: white;
+          margin-top: .5rem;
+        }
+       
