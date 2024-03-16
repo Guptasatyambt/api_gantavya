@@ -29,6 +29,7 @@ app.use(express.static('public'));
 
 app.use("/",user);
 app.use("/agent",agent);
+
 app.use("/booking",booking);
 
 // app.use("/auth",authrouter);
