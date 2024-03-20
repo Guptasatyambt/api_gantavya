@@ -15,6 +15,7 @@ router.delete("/delete/:id", handledelete)
 //get agent
 router.get("/getone/:id", handlegetone)
 
+
 //get all agent
 router.get("/getall", handlegetall)
 
