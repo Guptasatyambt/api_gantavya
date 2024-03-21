@@ -97,7 +97,6 @@ async function handlegetone(req,res){
           res.status(200).json(agent);
         } catch (err) {
           next(err);
-          console.log("sometjin");
         }
 
 }
