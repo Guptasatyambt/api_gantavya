@@ -94,6 +94,7 @@ async function handlegetone(req,res){
     try {
         const travelid=req.params.id;
           const agent = await Agent.findOne({travelid});
+          
           res.status(200).json(agent);
         } catch (err) {
           next(err);
